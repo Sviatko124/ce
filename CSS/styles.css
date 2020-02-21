@@ -50,7 +50,7 @@ body {
   margin-left: 600px;
 }
 .myButton:hover {
-	background-color:#9b9e99;
+	background-color:#d1cfd1;
 }
 .myButton:active {
 	position:relative;
